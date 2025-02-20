@@ -12,8 +12,6 @@ export default function NewsDetail({ news }) {
           content="React, SEO, Web Development, Frontend, JavaScript"
         />
         <meta name="author" content="Your Name" />
-        <link rel="canonical" href={window.location.href} />
-
         <meta property="og:title" content="ข่าว 11111" />
         <meta property="og:description" content="คำอธิบายสำหรับแชร์" />
         <meta property="og:image" content="https://i.imgur.com/zHvlVyk.png" />
