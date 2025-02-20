@@ -16,8 +16,6 @@ export default function Home() {
               content="React, SEO, Web Development, Frontend, JavaScript"
             />
             <meta name="author" content="Your Name" />
-            <link rel="canonical" href={window.location.href} />
-
             <meta
               property="og:title"
               content="ชื่อเรื่องของคุณ aaaaaaaaaaaaaa"
